@@ -2,6 +2,12 @@
   <img src="https://raw.githubusercontent.com/ferecovilkin/ferecovilkin/c4823079b1d88eca5278e439f27f862ff134bd3c/assets/serious-terminal.svg" width="100%" alt="Ilkin Farajov — Kali terminal with ilkin@kali prompts and sequential command typing." />
 </div>
 
+<div align="center">
+  <a href="https://ilkinferecov.com"><strong>🌐 Official Portfolio — ilkinferecov.com</strong></a>
+  <br />
+  <sub>İlkin Fərəcov · Cybersecurity · Penetration Testing · Red Team</sub>
+</div>
+
 ## Who am I
 
 I'm **İlkin Fərəcov**, a cybersecurity specialist focused on penetration testing and Red Teaming across servers, web applications, and Active Directory environments. I assess systems from an attacker's perspective, investigating how vulnerabilities can be exploited and what their real-world impact could be.
